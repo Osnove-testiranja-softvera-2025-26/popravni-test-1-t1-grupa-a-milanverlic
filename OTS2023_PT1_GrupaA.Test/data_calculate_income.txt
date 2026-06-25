@@ -1,0 +1,7 @@
+AmountOfFish	AmountOfBait	HasBoat	Score
+6	9	false	Bad
+6	10	true	Average
+7	9	true	Bad
+7	10	false	Bad
+13	9	false	Good
+13	10	true	Good
